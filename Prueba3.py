@@ -1,0 +1,1 @@
+# Dada una imagen, detecta los objetos presentes en la imagen con OpenCV

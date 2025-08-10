@@ -1,0 +1,1 @@
+# Imprime el numero faltante mas pequeño mayor que cero en un arreglo de números
