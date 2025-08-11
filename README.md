@@ -17,3 +17,5 @@
 4. https://opencv.org/
 5. https://docs.opencv.org/4.x/db/deb/tutorial_display_image.html
 6. https://konfuzio.com/es/cv2/
+
+7. https://docs.opencv.org/4.x/d7/d9a/pytorch_segm_tutorial_dnn_conversion.html
