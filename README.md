@@ -33,4 +33,6 @@ Este repositorio contiene las pruebas técicas escritas en lenguaje Python, uno 
 9. https://www.tensorflow.org/guide/saved_model?hl=es-419
 10. https://storage.googleapis.com/download.tensorflow.org/data/ImageNetLabels.txt
 11. https://unsplash.com/es/fotos/un-par-de-animales-que-estan-en-el-agua-H837qHe2Qj4
+12. https://docs.opencv.org/4.x/d6/d0f/group__dnn.html#ga4823489a689bf4edfae7447eb807b067
+
 
