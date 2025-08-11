@@ -13,4 +13,4 @@ def get_nums(nums):
                 print(n)
                 return n
                 
-get_nums(nums2)
+get_nums(nums)

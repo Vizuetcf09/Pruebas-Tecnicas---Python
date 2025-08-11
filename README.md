@@ -10,7 +10,7 @@ Este repositorio contiene las pruebas técicas escritas en lenguaje Python, uno 
 2. https://www.delftstack.com/es/howto/python/python-loop-through-list/
 3. https://www.delftstack.com/es/howto/python/get-last-element-of-list-in-python/
 4. https://interactivechaos.com/es/manual/tutorial-de-numpy/union-de-arrays
-5. https://numpy.org/doc/stable/user/absolute_beginners.html
+5. https://parzibyte.me/blog/posts/python-comprobar-elemento-valor-existe-lista-arreglo/
 
 # Prueba 2
 
@@ -27,5 +27,4 @@ Este repositorio contiene las pruebas técicas escritas en lenguaje Python, uno 
 4. https://opencv.org/
 5. https://docs.opencv.org/4.x/db/deb/tutorial_display_image.html
 6. https://konfuzio.com/es/cv2/
-
 7. https://docs.opencv.org/4.x/d7/d9a/pytorch_segm_tutorial_dnn_conversion.html
