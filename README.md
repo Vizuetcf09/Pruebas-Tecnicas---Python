@@ -1,6 +1,16 @@
 # Introduction
 
+Este repositorio contiene las pruebas técicas escritas en lenguaje Python, uno de los objetivos es desarrollar cada uno de los ejercicios y pruebas **sin la ayuda de inteligencia artificial** como ChatGPT.
+
 # Resultados
+
+# Prueba 1
+
+1. https://docs.python.org/es/3/howto/sorting.html
+2. https://www.delftstack.com/es/howto/python/python-loop-through-list/
+3. https://www.delftstack.com/es/howto/python/get-last-element-of-list-in-python/
+4. https://interactivechaos.com/es/manual/tutorial-de-numpy/union-de-arrays
+5. https://numpy.org/doc/stable/user/absolute_beginners.html
 
 # Prueba 2
 
