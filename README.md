@@ -26,7 +26,7 @@ En general, se usaron diferentes programas y herramientas como:
 ## Inteligencia Artificial
 ### `Object_Detection`
 ### `Text_Speech`
-### Biografía
+### Referencias
 
 ## Prueba 1
 
