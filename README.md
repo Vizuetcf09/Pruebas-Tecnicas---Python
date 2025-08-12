@@ -15,7 +15,7 @@ La pruebas están contenidas en las carpetas [`AI`](./AI/) para contenido relaci
 
 > [!Notes] Consideraciones a futuro
 > 
-> Se agregara una carpeta para pruebas relacionadas con Análisis de datos, Linux, entre otras.
+> Se agregara una carpeta para pruebas relacionadas con ciencia de datos, web scraping, Linux, entre otras.
 > 
 
 # Herramientas
