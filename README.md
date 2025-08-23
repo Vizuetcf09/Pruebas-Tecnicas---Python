@@ -31,3 +31,8 @@ En general, se usaron diferentes programas y herramientas como:
 - [Jupyter Notebook](https://docs.jupyter.org/en/latest/index.html) [(Ipython)](https://ipython.org/project.html)
 - [Linux](https://www.linux.org/)
 
+# Referencias
+
+## Ejercicios
+
+1. [El Libro de Python](https://ellibrodepython.com/red-neuronal-tensorflow)
